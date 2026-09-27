@@ -1,0 +1,392 @@
+employee_id,role,permission
+E0001,Teller,ViewAccount
+E0001,Teller,ViewTransactions
+E0001,Teller,ProcessTransaction
+E0002,Branch Manager,ViewAccount
+E0002,Branch Manager,ViewTransactions
+E0002,Branch Manager,ModifyBeneficiary
+E0002,Branch Manager,CreateBeneficiary
+E0002,Branch Manager,ProcessTransaction
+E0002,Branch Manager,UpdateCustomerProfile
+E0002,Branch Manager,ChangeLimit
+E0003,Operations Officer,ViewAccount
+E0003,Operations Officer,ViewTransactions
+E0003,Operations Officer,ModifyBeneficiary
+E0003,Operations Officer,CreateBeneficiary
+E0003,Operations Officer,ProcessTransaction
+E0003,Operations Officer,UpdateCustomerProfile
+E0004,Loan Officer,ViewAccount
+E0004,Loan Officer,ViewTransactions
+E0004,Loan Officer,UpdateCustomerProfile
+E0005,Relationship Manager,ViewAccount
+E0005,Relationship Manager,ViewTransactions
+E0005,Relationship Manager,CreateBeneficiary
+E0005,Relationship Manager,UpdateCustomerProfile
+E0006,Compliance Officer,ViewAccount
+E0006,Compliance Officer,ViewTransactions
+E0007,IT Administrator,ViewAccount
+E0007,IT Administrator,ViewTransactions
+E0007,IT Administrator,ChangeLimit
+E0008,Customer Service Officer,ViewAccount
+E0008,Customer Service Officer,ViewTransactions
+E0008,Customer Service Officer,UpdateCustomerProfile
+E0009,Teller,ViewAccount
+E0009,Teller,ViewTransactions
+E0009,Teller,ProcessTransaction
+E0010,Branch Manager,ViewAccount
+E0010,Branch Manager,ViewTransactions
+E0010,Branch Manager,ModifyBeneficiary
+E0010,Branch Manager,CreateBeneficiary
+E0010,Branch Manager,ProcessTransaction
+E0010,Branch Manager,UpdateCustomerProfile
+E0010,Branch Manager,ChangeLimit
+E0011,Operations Officer,ViewAccount
+E0011,Operations Officer,ViewTransactions
+E0011,Operations Officer,ModifyBeneficiary
+E0011,Operations Officer,CreateBeneficiary
+E0011,Operations Officer,ProcessTransaction
+E0011,Operations Officer,UpdateCustomerProfile
+E0012,Loan Officer,ViewAccount
+E0012,Loan Officer,ViewTransactions
+E0012,Loan Officer,UpdateCustomerProfile
+E0013,Relationship Manager,ViewAccount
+E0013,Relationship Manager,ViewTransactions
+E0013,Relationship Manager,CreateBeneficiary
+E0013,Relationship Manager,UpdateCustomerProfile
+E0014,Compliance Officer,ViewAccount
+E0014,Compliance Officer,ViewTransactions
+E0015,IT Administrator,ViewAccount
+E0015,IT Administrator,ViewTransactions
+E0015,IT Administrator,ChangeLimit
+E0016,Customer Service Officer,ViewAccount
+E0016,Customer Service Officer,ViewTransactions
+E0016,Customer Service Officer,UpdateCustomerProfile
+E0017,Teller,ViewAccount
+E0017,Teller,ViewTransactions
+E0017,Teller,ProcessTransaction
+E0018,Branch Manager,ViewAccount
+E0018,Branch Manager,ViewTransactions
+E0018,Branch Manager,ModifyBeneficiary
+E0018,Branch Manager,CreateBeneficiary
+E0018,Branch Manager,ProcessTransaction
+E0018,Branch Manager,UpdateCustomerProfile
+E0018,Branch Manager,ChangeLimit
+E0019,Operations Officer,ViewAccount
+E0019,Operations Officer,ViewTransactions
+E0019,Operations Officer,ModifyBeneficiary
+E0019,Operations Officer,CreateBeneficiary
+E0019,Operations Officer,ProcessTransaction
+E0019,Operations Officer,UpdateCustomerProfile
+E0020,Loan Officer,ViewAccount
+E0020,Loan Officer,ViewTransactions
+E0020,Loan Officer,UpdateCustomerProfile
+E0021,Relationship Manager,ViewAccount
+E0021,Relationship Manager,ViewTransactions
+E0021,Relationship Manager,CreateBeneficiary
+E0021,Relationship Manager,UpdateCustomerProfile
+E0022,Compliance Officer,ViewAccount
+E0022,Compliance Officer,ViewTransactions
+E0023,IT Administrator,ViewAccount
+E0023,IT Administrator,ViewTransactions
+E0023,IT Administrator,ChangeLimit
+E0024,Customer Service Officer,ViewAccount
+E0024,Customer Service Officer,ViewTransactions
+E0024,Customer Service Officer,UpdateCustomerProfile
+E0025,Teller,ViewAccount
+E0025,Teller,ViewTransactions
+E0025,Teller,ProcessTransaction
+E0026,Branch Manager,ViewAccount
+E0026,Branch Manager,ViewTransactions
+E0026,Branch Manager,ModifyBeneficiary
+E0026,Branch Manager,CreateBeneficiary
+E0026,Branch Manager,ProcessTransaction
+E0026,Branch Manager,UpdateCustomerProfile
+E0026,Branch Manager,ChangeLimit
+E0027,Operations Officer,ViewAccount
+E0027,Operations Officer,ViewTransactions
+E0027,Operations Officer,ModifyBeneficiary
+E0027,Operations Officer,CreateBeneficiary
+E0027,Operations Officer,ProcessTransaction
+E0027,Operations Officer,UpdateCustomerProfile
+E0028,Loan Officer,ViewAccount
+E0028,Loan Officer,ViewTransactions
+E0028,Loan Officer,UpdateCustomerProfile
+E0029,Relationship Manager,ViewAccount
+E0029,Relationship Manager,ViewTransactions
+E0029,Relationship Manager,CreateBeneficiary
+E0029,Relationship Manager,UpdateCustomerProfile
+E0030,Compliance Officer,ViewAccount
+E0030,Compliance Officer,ViewTransactions
+E0031,IT Administrator,ViewAccount
+E0031,IT Administrator,ViewTransactions
+E0031,IT Administrator,ChangeLimit
+E0032,Customer Service Officer,ViewAccount
+E0032,Customer Service Officer,ViewTransactions
+E0032,Customer Service Officer,UpdateCustomerProfile
+E0033,Teller,ViewAccount
+E0033,Teller,ViewTransactions
+E0033,Teller,ProcessTransaction
+E0034,Branch Manager,ViewAccount
+E0034,Branch Manager,ViewTransactions
+E0034,Branch Manager,ModifyBeneficiary
+E0034,Branch Manager,CreateBeneficiary
+E0034,Branch Manager,ProcessTransaction
+E0034,Branch Manager,UpdateCustomerProfile
+E0034,Branch Manager,ChangeLimit
+E0035,Operations Officer,ViewAccount
+E0035,Operations Officer,ViewTransactions
+E0035,Operations Officer,ModifyBeneficiary
+E0035,Operations Officer,CreateBeneficiary
+E0035,Operations Officer,ProcessTransaction
+E0035,Operations Officer,UpdateCustomerProfile
+E0036,Loan Officer,ViewAccount
+E0036,Loan Officer,ViewTransactions
+E0036,Loan Officer,UpdateCustomerProfile
+E0037,Relationship Manager,ViewAccount
+E0037,Relationship Manager,ViewTransactions
+E0037,Relationship Manager,CreateBeneficiary
+E0037,Relationship Manager,UpdateCustomerProfile
+E0038,Compliance Officer,ViewAccount
+E0038,Compliance Officer,ViewTransactions
+E0039,IT Administrator,ViewAccount
+E0039,IT Administrator,ViewTransactions
+E0039,IT Administrator,ChangeLimit
+E0040,Customer Service Officer,ViewAccount
+E0040,Customer Service Officer,ViewTransactions
+E0040,Customer Service Officer,UpdateCustomerProfile
+E0041,Teller,ViewAccount
+E0041,Teller,ViewTransactions
+E0041,Teller,ProcessTransaction
+E0042,Branch Manager,ViewAccount
+E0042,Branch Manager,ViewTransactions
+E0042,Branch Manager,ModifyBeneficiary
+E0042,Branch Manager,CreateBeneficiary
+E0042,Branch Manager,ProcessTransaction
+E0042,Branch Manager,UpdateCustomerProfile
+E0042,Branch Manager,ChangeLimit
+E0043,Operations Officer,ViewAccount
+E0043,Operations Officer,ViewTransactions
+E0043,Operations Officer,ModifyBeneficiary
+E0043,Operations Officer,CreateBeneficiary
+E0043,Operations Officer,ProcessTransaction
+E0043,Operations Officer,UpdateCustomerProfile
+E0044,Loan Officer,ViewAccount
+E0044,Loan Officer,ViewTransactions
+E0044,Loan Officer,UpdateCustomerProfile
+E0045,Relationship Manager,ViewAccount
+E0045,Relationship Manager,ViewTransactions
+E0045,Relationship Manager,CreateBeneficiary
+E0045,Relationship Manager,UpdateCustomerProfile
+E0046,Compliance Officer,ViewAccount
+E0046,Compliance Officer,ViewTransactions
+E0047,IT Administrator,ViewAccount
+E0047,IT Administrator,ViewTransactions
+E0047,IT Administrator,ChangeLimit
+E0048,Customer Service Officer,ViewAccount
+E0048,Customer Service Officer,ViewTransactions
+E0048,Customer Service Officer,UpdateCustomerProfile
+E0049,Teller,ViewAccount
+E0049,Teller,ViewTransactions
+E0049,Teller,ProcessTransaction
+E0050,Branch Manager,ViewAccount
+E0050,Branch Manager,ViewTransactions
+E0050,Branch Manager,ModifyBeneficiary
+E0050,Branch Manager,CreateBeneficiary
+E0050,Branch Manager,ProcessTransaction
+E0050,Branch Manager,UpdateCustomerProfile
+E0050,Branch Manager,ChangeLimit
+E0051,Operations Officer,ViewAccount
+E0051,Operations Officer,ViewTransactions
+E0051,Operations Officer,ModifyBeneficiary
+E0051,Operations Officer,CreateBeneficiary
+E0051,Operations Officer,ProcessTransaction
+E0051,Operations Officer,UpdateCustomerProfile
+E0052,Loan Officer,ViewAccount
+E0052,Loan Officer,ViewTransactions
+E0052,Loan Officer,UpdateCustomerProfile
+E0053,Relationship Manager,ViewAccount
+E0053,Relationship Manager,ViewTransactions
+E0053,Relationship Manager,CreateBeneficiary
+E0053,Relationship Manager,UpdateCustomerProfile
+E0054,Compliance Officer,ViewAccount
+E0054,Compliance Officer,ViewTransactions
+E0055,IT Administrator,ViewAccount
+E0055,IT Administrator,ViewTransactions
+E0055,IT Administrator,ChangeLimit
+E0056,Customer Service Officer,ViewAccount
+E0056,Customer Service Officer,ViewTransactions
+E0056,Customer Service Officer,UpdateCustomerProfile
+E0057,Teller,ViewAccount
+E0057,Teller,ViewTransactions
+E0057,Teller,ProcessTransaction
+E0058,Branch Manager,ViewAccount
+E0058,Branch Manager,ViewTransactions
+E0058,Branch Manager,ModifyBeneficiary
+E0058,Branch Manager,CreateBeneficiary
+E0058,Branch Manager,ProcessTransaction
+E0058,Branch Manager,UpdateCustomerProfile
+E0058,Branch Manager,ChangeLimit
+E0059,Operations Officer,ViewAccount
+E0059,Operations Officer,ViewTransactions
+E0059,Operations Officer,ModifyBeneficiary
+E0059,Operations Officer,CreateBeneficiary
+E0059,Operations Officer,ProcessTransaction
+E0059,Operations Officer,UpdateCustomerProfile
+E0060,Loan Officer,ViewAccount
+E0060,Loan Officer,ViewTransactions
+E0060,Loan Officer,UpdateCustomerProfile
+E0061,Relationship Manager,ViewAccount
+E0061,Relationship Manager,ViewTransactions
+E0061,Relationship Manager,CreateBeneficiary
+E0061,Relationship Manager,UpdateCustomerProfile
+E0062,Compliance Officer,ViewAccount
+E0062,Compliance Officer,ViewTransactions
+E0063,IT Administrator,ViewAccount
+E0063,IT Administrator,ViewTransactions
+E0063,IT Administrator,ChangeLimit
+E0064,Customer Service Officer,ViewAccount
+E0064,Customer Service Officer,ViewTransactions
+E0064,Customer Service Officer,UpdateCustomerProfile
+E0065,Teller,ViewAccount
+E0065,Teller,ViewTransactions
+E0065,Teller,ProcessTransaction
+E0066,Branch Manager,ViewAccount
+E0066,Branch Manager,ViewTransactions
+E0066,Branch Manager,ModifyBeneficiary
+E0066,Branch Manager,CreateBeneficiary
+E0066,Branch Manager,ProcessTransaction
+E0066,Branch Manager,UpdateCustomerProfile
+E0066,Branch Manager,ChangeLimit
+E0067,Operations Officer,ViewAccount
+E0067,Operations Officer,ViewTransactions
+E0067,Operations Officer,ModifyBeneficiary
+E0067,Operations Officer,CreateBeneficiary
+E0067,Operations Officer,ProcessTransaction
+E0067,Operations Officer,UpdateCustomerProfile
+E0068,Loan Officer,ViewAccount
+E0068,Loan Officer,ViewTransactions
+E0068,Loan Officer,UpdateCustomerProfile
+E0069,Relationship Manager,ViewAccount
+E0069,Relationship Manager,ViewTransactions
+E0069,Relationship Manager,CreateBeneficiary
+E0069,Relationship Manager,UpdateCustomerProfile
+E0070,Compliance Officer,ViewAccount
+E0070,Compliance Officer,ViewTransactions
+E0071,IT Administrator,ViewAccount
+E0071,IT Administrator,ViewTransactions
+E0071,IT Administrator,ChangeLimit
+E0072,Customer Service Officer,ViewAccount
+E0072,Customer Service Officer,ViewTransactions
+E0072,Customer Service Officer,UpdateCustomerProfile
+E0073,Teller,ViewAccount
+E0073,Teller,ViewTransactions
+E0073,Teller,ProcessTransaction
+E0074,Branch Manager,ViewAccount
+E0074,Branch Manager,ViewTransactions
+E0074,Branch Manager,ModifyBeneficiary
+E0074,Branch Manager,CreateBeneficiary
+E0074,Branch Manager,ProcessTransaction
+E0074,Branch Manager,UpdateCustomerProfile
+E0074,Branch Manager,ChangeLimit
+E0075,Operations Officer,ViewAccount
+E0075,Operations Officer,ViewTransactions
+E0075,Operations Officer,ModifyBeneficiary
+E0075,Operations Officer,CreateBeneficiary
+E0075,Operations Officer,ProcessTransaction
+E0075,Operations Officer,UpdateCustomerProfile
+E0076,Loan Officer,ViewAccount
+E0076,Loan Officer,ViewTransactions
+E0076,Loan Officer,UpdateCustomerProfile
+E0077,Relationship Manager,ViewAccount
+E0077,Relationship Manager,ViewTransactions
+E0077,Relationship Manager,CreateBeneficiary
+E0077,Relationship Manager,UpdateCustomerProfile
+E0078,Compliance Officer,ViewAccount
+E0078,Compliance Officer,ViewTransactions
+E0079,IT Administrator,ViewAccount
+E0079,IT Administrator,ViewTransactions
+E0079,IT Administrator,ChangeLimit
+E0080,Customer Service Officer,ViewAccount
+E0080,Customer Service Officer,ViewTransactions
+E0080,Customer Service Officer,UpdateCustomerProfile
+E0081,Teller,ViewAccount
+E0081,Teller,ViewTransactions
+E0081,Teller,ProcessTransaction
+E0082,Branch Manager,ViewAccount
+E0082,Branch Manager,ViewTransactions
+E0082,Branch Manager,ModifyBeneficiary
+E0082,Branch Manager,CreateBeneficiary
+E0082,Branch Manager,ProcessTransaction
+E0082,Branch Manager,UpdateCustomerProfile
+E0082,Branch Manager,ChangeLimit
+E0083,Operations Officer,ViewAccount
+E0083,Operations Officer,ViewTransactions
+E0083,Operations Officer,ModifyBeneficiary
+E0083,Operations Officer,CreateBeneficiary
+E0083,Operations Officer,ProcessTransaction
+E0083,Operations Officer,UpdateCustomerProfile
+E0084,Loan Officer,ViewAccount
+E0084,Loan Officer,ViewTransactions
+E0084,Loan Officer,UpdateCustomerProfile
+E0085,Relationship Manager,ViewAccount
+E0085,Relationship Manager,ViewTransactions
+E0085,Relationship Manager,CreateBeneficiary
+E0085,Relationship Manager,UpdateCustomerProfile
+E0086,Compliance Officer,ViewAccount
+E0086,Compliance Officer,ViewTransactions
+E0087,IT Administrator,ViewAccount
+E0087,IT Administrator,ViewTransactions
+E0087,IT Administrator,ChangeLimit
+E0088,Customer Service Officer,ViewAccount
+E0088,Customer Service Officer,ViewTransactions
+E0088,Customer Service Officer,UpdateCustomerProfile
+E0089,Teller,ViewAccount
+E0089,Teller,ViewTransactions
+E0089,Teller,ProcessTransaction
+E0090,Branch Manager,ViewAccount
+E0090,Branch Manager,ViewTransactions
+E0090,Branch Manager,ModifyBeneficiary
+E0090,Branch Manager,CreateBeneficiary
+E0090,Branch Manager,ProcessTransaction
+E0090,Branch Manager,UpdateCustomerProfile
+E0090,Branch Manager,ChangeLimit
+E0091,Operations Officer,ViewAccount
+E0091,Operations Officer,ViewTransactions
+E0091,Operations Officer,ModifyBeneficiary
+E0091,Operations Officer,CreateBeneficiary
+E0091,Operations Officer,ProcessTransaction
+E0091,Operations Officer,UpdateCustomerProfile
+E0092,Loan Officer,ViewAccount
+E0092,Loan Officer,ViewTransactions
+E0092,Loan Officer,UpdateCustomerProfile
+E0093,Relationship Manager,ViewAccount
+E0093,Relationship Manager,ViewTransactions
+E0093,Relationship Manager,CreateBeneficiary
+E0093,Relationship Manager,UpdateCustomerProfile
+E0094,Compliance Officer,ViewAccount
+E0094,Compliance Officer,ViewTransactions
+E0095,IT Administrator,ViewAccount
+E0095,IT Administrator,ViewTransactions
+E0095,IT Administrator,ChangeLimit
+E0096,Customer Service Officer,ViewAccount
+E0096,Customer Service Officer,ViewTransactions
+E0096,Customer Service Officer,UpdateCustomerProfile
+E0097,Teller,ViewAccount
+E0097,Teller,ViewTransactions
+E0097,Teller,ProcessTransaction
+E0098,Branch Manager,ViewAccount
+E0098,Branch Manager,ViewTransactions
+E0098,Branch Manager,ModifyBeneficiary
+E0098,Branch Manager,CreateBeneficiary
+E0098,Branch Manager,ProcessTransaction
+E0098,Branch Manager,UpdateCustomerProfile
+E0098,Branch Manager,ChangeLimit
+E0099,Operations Officer,ViewAccount
+E0099,Operations Officer,ViewTransactions
+E0099,Operations Officer,ModifyBeneficiary
+E0099,Operations Officer,CreateBeneficiary
+E0099,Operations Officer,ProcessTransaction
+E0099,Operations Officer,UpdateCustomerProfile
+E0100,Loan Officer,ViewAccount
+E0100,Loan Officer,ViewTransactions
+E0100,Loan Officer,UpdateCustomerProfile

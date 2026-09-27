@@ -1,0 +1,101 @@
+employee_id,name,role,branch_id,join_date,status
+E0001,Ananya Patil,Teller,B001,2020-02-01,Active
+E0002,Neha Joshi,Branch Manager,B003,2018-02-24,Active
+E0003,Ananya Nair,Operations Officer,B002,2023-08-16,Active
+E0004,Isha Sharma,Loan Officer,B001,2018-01-19,Active
+E0005,Neha Joshi,Relationship Manager,B009,2023-10-02,Active
+E0006,Aarav Nair,Compliance Officer,B004,2025-01-11,Active
+E0007,Ananya Nair,IT Administrator,B007,2019-06-22,Active
+E0008,Vivek Gupta,Customer Service Officer,B005,2017-01-27,Active
+E0009,Rahul Kulkarni,Teller,B006,2020-02-13,Active
+E0010,Rahul Joshi,Branch Manager,B006,2018-02-23,Active
+E0011,Priya Kulkarni,Operations Officer,B002,2021-01-10,Active
+E0012,Rohan Gupta,Loan Officer,B005,2017-06-27,Active
+E0013,Sahil Mehta,Relationship Manager,B009,2018-05-27,Active
+E0014,Isha Patil,Compliance Officer,B009,2020-04-15,Active
+E0015,Ananya Gupta,IT Administrator,B006,2023-06-23,Active
+E0016,Neha Patil,Customer Service Officer,B001,2024-06-01,Active
+E0017,Neha Desai,Teller,B002,2019-08-12,Active
+E0018,Priya Kulkarni,Branch Manager,B005,2022-02-01,Active
+E0019,Ananya Singh,Operations Officer,B003,2021-02-25,Active
+E0020,Rohan Joshi,Loan Officer,B011,2019-12-30,Active
+E0021,Sahil Patil,Relationship Manager,B010,2024-02-14,Active
+E0022,Rahul Nair,Compliance Officer,B012,2019-09-30,Active
+E0023,Rahul Mehta,IT Administrator,B007,2020-01-11,Active
+E0024,Ananya Nair,Customer Service Officer,B004,2024-09-05,Active
+E0025,Rohan Sharma,Teller,B004,2017-05-12,Active
+E0026,Rohan Kulkarni,Branch Manager,B005,2017-09-29,Active
+E0027,Neha Gupta,Operations Officer,B012,2020-07-12,Active
+E0028,Neha Mehta,Loan Officer,B007,2024-03-18,Active
+E0029,Vivek Khan,Relationship Manager,B005,2018-07-26,Active
+E0030,Neha Nair,Compliance Officer,B009,2019-12-13,Active
+E0031,Sahil Gupta,IT Administrator,B007,2023-07-19,Active
+E0032,Isha Singh,Customer Service Officer,B004,2018-07-21,Active
+E0033,Meera Mehta,Teller,B002,2017-07-12,Active
+E0034,Priya Khan,Branch Manager,B011,2018-10-18,Active
+E0035,Ananya Kulkarni,Operations Officer,B010,2017-09-18,Active
+E0036,Isha Kulkarni,Loan Officer,B010,2022-04-02,Active
+E0037,Meera Desai,Relationship Manager,B009,2017-02-17,Active
+E0038,Ananya Patil,Compliance Officer,B011,2023-01-09,Active
+E0039,Aditi Singh,IT Administrator,B002,2020-04-17,Active
+E0040,Isha Khan,Customer Service Officer,B008,2017-01-14,Active
+E0041,Sahil Desai,Teller,B009,2019-01-02,Active
+E0042,Meera Patil,Branch Manager,B011,2020-05-07,Active
+E0043,Ananya Nair,Operations Officer,B010,2019-03-26,Active
+E0044,Rahul Singh,Loan Officer,B003,2023-01-19,Active
+E0045,Meera Sharma,Relationship Manager,B010,2020-08-20,Active
+E0046,Vivek Sharma,Compliance Officer,B002,2021-01-26,Active
+E0047,Aditi Joshi,IT Administrator,B001,2019-09-14,Active
+E0048,Kabir Patil,Customer Service Officer,B002,2025-03-17,Active
+E0049,Vivek Patil,Teller,B009,2018-05-31,Active
+E0050,Rahul Mehta,Branch Manager,B009,2018-11-08,Active
+E0051,Aditi Nair,Operations Officer,B010,2021-09-30,Active
+E0052,Neha Nair,Loan Officer,B012,2024-09-26,Active
+E0053,Neha Desai,Relationship Manager,B007,2024-07-14,Active
+E0054,Ananya Singh,Compliance Officer,B008,2022-10-21,Active
+E0055,Vivek Patil,IT Administrator,B004,2019-07-10,Active
+E0056,Priya Singh,Customer Service Officer,B001,2023-08-07,Active
+E0057,Meera Joshi,Teller,B010,2019-06-22,Active
+E0058,Aarav Patil,Branch Manager,B012,2024-01-29,Active
+E0059,Aarav Joshi,Operations Officer,B002,2017-05-09,Active
+E0060,Rohan Patil,Loan Officer,B009,2019-09-02,Active
+E0061,Aditi Mehta,Relationship Manager,B004,2023-01-18,Active
+E0062,Rahul Gupta,Compliance Officer,B010,2022-04-21,Active
+E0063,Neha Mehta,IT Administrator,B007,2019-02-19,Active
+E0064,Priya Patil,Customer Service Officer,B011,2021-11-01,Active
+E0065,Rohan Kulkarni,Teller,B007,2022-03-28,Active
+E0066,Sahil Sharma,Branch Manager,B011,2024-04-30,Active
+E0067,Ananya Patil,Operations Officer,B001,2021-07-08,Active
+E0068,Sahil Singh,Loan Officer,B002,2019-10-16,Active
+E0069,Neha Joshi,Relationship Manager,B009,2022-01-12,Active
+E0070,Rahul Kulkarni,Compliance Officer,B003,2020-02-15,Active
+E0071,Vivek Joshi,IT Administrator,B002,2021-12-21,Active
+E0072,Meera Patil,Customer Service Officer,B001,2024-04-25,Active
+E0073,Meera Sharma,Teller,B002,2019-08-27,Active
+E0074,Rahul Kulkarni,Branch Manager,B008,2022-05-26,Active
+E0075,Neha Kulkarni,Operations Officer,B001,2018-11-06,Active
+E0076,Isha Sharma,Loan Officer,B007,2019-12-23,Active
+E0077,Vivek Desai,Relationship Manager,B007,2024-10-24,Active
+E0078,Sahil Nair,Compliance Officer,B011,2025-01-21,Active
+E0079,Vivek Khan,IT Administrator,B004,2020-04-30,Active
+E0080,Neha Sharma,Customer Service Officer,B010,2023-01-30,Active
+E0081,Aarav Singh,Teller,B001,2017-07-25,Active
+E0082,Kabir Mehta,Branch Manager,B009,2022-12-16,Active
+E0083,Rahul Sharma,Operations Officer,B009,2017-11-25,Active
+E0084,Rahul Patil,Loan Officer,B010,2017-10-06,Active
+E0085,Ananya Joshi,Relationship Manager,B007,2018-05-07,Active
+E0086,Kabir Joshi,Compliance Officer,B010,2023-09-02,Active
+E0087,Aarav Gupta,IT Administrator,B002,2021-09-14,Active
+E0088,Ananya Gupta,Customer Service Officer,B010,2022-11-12,Active
+E0089,Rohan Desai,Teller,B004,2024-07-06,Active
+E0090,Sahil Singh,Branch Manager,B004,2019-12-24,Active
+E0091,Isha Khan,Operations Officer,B011,2024-03-28,Active
+E0092,Aditi Mehta,Loan Officer,B006,2017-10-25,Active
+E0093,Aarav Mehta,Relationship Manager,B010,2023-04-26,Active
+E0094,Priya Patil,Compliance Officer,B009,2019-05-24,Active
+E0095,Meera Desai,IT Administrator,B003,2020-11-30,Active
+E0096,Priya Joshi,Customer Service Officer,B006,2020-03-13,Active
+E0097,Rahul Mehta,Teller,B009,2024-11-21,Active
+E0098,Aditi Gupta,Branch Manager,B011,2022-12-07,Active
+E0099,Aarav Nair,Operations Officer,B005,2024-06-10,Active
+E0100,Priya Khan,Loan Officer,B005,2018-04-18,Active
